@@ -132,6 +132,7 @@
 				<td >Price</td>
 				<td >Quantity</td> 
 				<td >Sub-total</td>
+				<td >Confirm</td>
 			</tr>
 
 		</thead>
@@ -181,6 +182,7 @@ AND DATE(ORDEREDDATE) <= '". date_format(date_create($_POST['date_pickerto']),'Y
 									<td>'.$result->PROPRICE.'</td>
 									<td>'.$result->QTY .'</td>
 									<td>'.$AMOUNT.'</td>  
+									<td>Dimas</td>
 								 </tr>';
 			
 			$Capital += $result->ORIGINALPRICE;	

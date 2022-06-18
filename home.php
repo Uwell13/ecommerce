@@ -18,8 +18,7 @@
                  
                 </div>
                 <div class="col-sm-6">
-                  <img src="images/home/girl1.jpg" class="girl img-responsive" alt="" />
-                  <img src="images/home/pricing.png"  class="pricing" alt="" />
+                  <img src="images/home/slide3.png" class="girl img-responsive" alt="" />
                 </div>
               </div>
               <div class="item">
@@ -30,11 +29,10 @@
                  
                 </div>
                 <div class="col-sm-6">
-                  <img src="images/home/girl2.jpg" class="girl img-responsive" alt="" />
-                  <img src="images/home/pricing.png"  class="pricing" alt="" />
+                  <img src="images/home/slide2.jpeg" class="girl img-responsive" alt="" />
                 </div>
               </div>
-              
+
               <div class="item">
                 <div class="col-sm-6">
                   <h1><span>E</span>-Tokopekita</h1>
@@ -43,8 +41,7 @@
                  
                 </div>
                 <div class="col-sm-6">
-                  <img src="images/home/girl3.jpg" class="girl img-responsive" alt="" />
-                  <img src="images/home/pricing.png" class="pricing" alt="" />
+                  <img src="images/home/slide2.jpeg" class="girl img-responsive" alt="" />
                 </div>
               </div>
               
